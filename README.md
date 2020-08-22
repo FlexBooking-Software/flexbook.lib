@@ -1,2 +1,2 @@
 # FlexBook Library
-External libraries used for FlexBook project
+External software libraries used for FlexBook project
